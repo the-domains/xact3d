@@ -1,0 +1,28 @@
+name: xact3d
+favicon: null
+layout_spectrum: 0.06778299808502197
+typography_spectrum: 0.14777149632573128
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.24167129583656788
+  lightness: 0.32733999053016305
+  saturation: 0.8542152550071478
+  rhythmicContrast: 0.3569818460382521
+purpose: []
